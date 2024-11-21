@@ -10,7 +10,5 @@
 
 # First Roadblock
 
- This is where I ran into my first speed bump. I use Solar-PuTTY to ssh from my Windows machine to my aforementioned Linux workstation\
-and eventually the Pi as well. It had been a while since I set up my initial ssh session with my Linux setup but I remembered it working \
-relatively easily. 
+ This is where I ran into my first speed bump. I use Solar-PuTTY to ssh from my Windows machine to my aforementioned Linux workstation and eventually the Pi as well. It had been a while since I set up my initial ssh session with my Linux setup but I remembered it working relatively easily. 
  
