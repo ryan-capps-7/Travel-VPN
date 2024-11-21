@@ -1,6 +1,6 @@
 # Travel-VPN
 
- This project was high on my priority list of projects to start first solely due to the fact that I would like to be access my media while on the road.
+ This project was high on my priority list of projects to start first, solely due to the fact that I would like to be access my locally hosted media while on the road.
 
 # Initial Steps
  1. Removed MicroSD card from Raspberry Pi 4 and inserted it into a card reader connected to my computer running NixOS Linux.
